@@ -104,14 +104,6 @@ The remaining modules (`board`, `digitalio`, and `time`) are included with Circu
 4. Connect the hardware according to the wiring table.
 5. Reset the board.
 
-## Demo
-
-You can add screenshots or a short video/GIF here showing:
-
-- Password entry
-- Successful unlock
-- Failed attempt
-- LED and buzzer feedback
 
 ## License
 
